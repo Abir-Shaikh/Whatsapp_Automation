@@ -31,6 +31,7 @@ datetime module
 time module
 
 📂 Project Structure
+
 Whatsapp_Automation/
 │
 ├── main.py          # Main automation script
